@@ -7,8 +7,8 @@ Using any language you like, write a simple program that calculates the price of
 Items are priced as follows:
  - Apples are 35p each
  - Bananas are 20p each
- - Melons are 50p each, but are available as ëbuy one get one freeí
- - Limes are 15p each, but are available in a ëthree for the price twoí offer
+ - Melons are 50p each, but are available as "buy one get one free"
+ - Limes are 15p each, but are available in a "three for the price two" offer
 
 Given a list of shopping, calculate the total cost of those items.
 
