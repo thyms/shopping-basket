@@ -18,7 +18,7 @@ As per mentioned in the problem definition, same type of items are kept separate
 ## Improvements
 Product data should be queried from a proper data source, currently an in-memory list is used.
 
-## Run Test
+## Run Tests
 ```bash
 ./gradlew     clean test  # for *nix/OSX
 .\gradlew.bat clean test  # for Windows
