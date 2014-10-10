@@ -12,6 +12,12 @@ Items are priced as follows:
 
 Given a list of shopping, calculate the total cost of those items.
 
+## Assumptions
+As per mentioned in the problem definition, same type of items are kept separately in the basket.
+
+## Improvements
+Product data should be queried from a proper data source, currently an in-memory list is used.
+
 ## Run Test
 ```bash
 ./gradlew     clean test  # for *nix/OSX
